@@ -1,26 +1,26 @@
 {
-  "notes": "Random Trader desktop desktop-v0.1.4",
+  "notes": "Random Trader desktop desktop-v0.1.5",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa1YvMzJMaFBibXR0Uzg2cGhDMkVKMmtmSUpLWFBPYkdnN1JPUlA2dytub3gzZElaMW02L3dpdG55RjRsLzZtRW1RL0RFWWRzdVNtQXNiN1Y3cmpBSUVIZ1A0bFQ3MEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2Mzg2NjMwCWZpbGU6UmFuZG9tIFRyYWRlci5hcHAudGFyLmd6CmtzclhESUYrZmY0ekhDVW5hNkEwQ29tRDlQeXdUM2JYY3ppeGdKNXBqWEJSbXJiMzlvN1J2VUNrTk9oaWdtNEkzaFZjR0xQa2hsblZTWERNQVY5L0NRPT0K",
-      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/desktop-v0.1.4/RandomTrader-macos-arm64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa1YvMzJMaFBibWpVL01QZ2ZtNk1sVi9qT1pmYXp3ajJSK3pvNWxySVkvN1BQSlJ0MzE2bTRVTmZVK1hBMStDckllZ1JRMDBVS3h1dk1Md3hGVUo4S0FXbTFBcVpzaEE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDMxMjA2CWZpbGU6UmFuZG9tIFRyYWRlci5hcHAudGFyLmd6CktDa2pRSjBiVVBQME9QWERqRXJ3Nk4rU0FPbStMQSt3Wi9rY3BCTHBHZkhIcG9NSW5uUzJnZWdiMmVmbTE0WDZsYWdvSDVoNmZDRDkwcGZEVlVleUNnPT0K",
+      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/desktop-v0.1.5/RandomTrader-macos-arm64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa1YvMzJMaFBibW5mRHZnbUlBcXJZNGRLSjBIWDdhUksvdUxMV1daMDJySlZDQTJ0QjFUNGZrTkIxeXZZY1dnZ00xT2gyK0lUdWpZNHZuZlZDazc5eEhHb0FybzNZd2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2Mzg2ODY2CWZpbGU6UmFuZG9tIFRyYWRlci5hcHAudGFyLmd6CmdvVlA1Y2E3WTBrVzZsd0pyaEdyNzRzYXAzWWdhbUVxRjZSaS9JRVRkSVlBTWRZOWp1WDZoZkNVeU01bXRKNkRLcjc3Z1Y5VmhGK09LRGZja3B0VURnPT0K",
-      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/desktop-v0.1.4/RandomTrader-macos-x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa1YvMzJMaFBibW83N01zOFBlTG5zbDRBVDR1OGFHZW5CSGY3OUZEMlNJRk8xYjFhUGkzSktTM0x3YnNqdFNOaHQ1bmZ6UjRPd2RPSCtXOWtMZG14dmdCczdFUVh1dEFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDMxMDQxCWZpbGU6UmFuZG9tIFRyYWRlci5hcHAudGFyLmd6CmNza1o0ZlV5WWc3UW1tTWNXNkQ1bG5XRU5XTDVtZWYrdW1KS3RYTjZIL0JWNU9jdFRPU1FpNTRhd1FaTTFvYVlHQy9MVnZNV1NPbXFSZk00cjdYSUFRPT0K",
+      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/desktop-v0.1.5/RandomTrader-macos-x64.app.tar.gz"
     },
     "linux-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa1YvMzJMaFBibW1RY0xLaDFmdWc1VUZybmc2UzQ0dmJETExoN2h0REZReXZXZWExc3REcjJteFlPZ0syM2Q1MFhPdk01NFdkeXRzMm9YS1FETmwrYzgwbG1Vb0ZHMmdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2Mzg2OTE0CWZpbGU6UmFuZG9tIFRyYWRlcl8wLjEuNF9hYXJjaDY0LkFwcEltYWdlCjhTNUlLcXd5Q3RkKytEMnJyT3NoMlNOeFVRWm9kMkZ1Z0FsQU8rdURPbmFmY3ZUS2UrMkpMV1BuR2tGeFloRjRHNUpJSk1oOTArbDNlK2NrbGlJSEJnPT0K",
-      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/desktop-v0.1.4/RandomTrader-linux-arm64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa1YvMzJMaFBibXNvNXFGbnRuMklBeHFQdHR2VzJPZ2lrZnRqVDlYcGVXVmNHcU83YWN4cy9pczk0WVR4SXpiUTdsYk5RK2VZLzlBTTY0KytoSW5JK1dyaFJsN2FDUFFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDMxMjUzCWZpbGU6UmFuZG9tIFRyYWRlcl8wLjEuNV9hYXJjaDY0LkFwcEltYWdlCjZVUXRRdzZFd1ZKM1dFZEErM0Q0ZE1sNlpqazU5OEV4bHgvMXlxN1ZnUXpscXNXWVFBZ24rQ20zTkRwcWNoOFVWbmlQbnZlQUpldzBvVUM3Q1Q2K0NBPT0K",
+      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/desktop-v0.1.5/RandomTrader-linux-arm64.AppImage"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa1YvMzJMaFBibW1qYkhMMG9udnpwaHowOGR0QzRHMDk0NVZDNXU1QVVjajJiMFhCb0ZrY2ZkV29JMEhCQitTK3liZkdZSTdza3M0bStmUGpIQUhJSzBvNDlMRWZEMUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2Mzg3MTM4CWZpbGU6UmFuZG9tIFRyYWRlcl8wLjEuNF9hbWQ2NC5BcHBJbWFnZQpzRmtKam9FYUVxYjkrWGtjSG1CNnlLa1cyNHUxb2FCSm1KRDVJRjl4aVNiT0U0bnp5L1R4aTdadG5sWXBZNzVJeFZ2aFZFbnNPUGpISHhLaWF0T3JEdz09Cg==",
-      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/desktop-v0.1.4/RandomTrader-linux-x64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa1YvMzJMaFBibXNTNVVSTHAzTmw0aHFMK0EwemdqbmFqSFBoSW04enUvcS9DdnVJbTdkVWEyaEJJN3h3ZG1mUGV6ZEhVeWlpTFZ4U2ZCVTQ0N0J2TjhqNlg1TGZSQWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDMxNDIyCWZpbGU6UmFuZG9tIFRyYWRlcl8wLjEuNV9hbWQ2NC5BcHBJbWFnZQowTHpFQS9rbE9oVG9JWnJTQXRBYU8wTXZzN0F5d2xyOU1WMUs1Vi9uVDVhVmh2TGIzMkNKbW1NWG43S0QyV0lCV0xYS1pBcGFDSHJ0ZU1wQU85VElDQT09Cg==",
+      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/desktop-v0.1.5/RandomTrader-linux-x64.AppImage"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa1YvMzJMaFBibW1keFNnRU1OTVlDUEkxNmY2cHhLbXJMOW1oRkhKSEFWV3ArVjdDMitlUTNYOHlxdU9wN1UwQXZGWXB4bGlLaUN3UGlQVHhBanJhLy83c0RHR3Fuamc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2Mzg3ODY1CWZpbGU6UmFuZG9tIFRyYWRlcl8wLjEuNF94NjQtc2V0dXAuZXhlCnRmdmhLR2dBRXBGcytaQTU4c2ZzbTF6MWNVdkJqV1RPdHlwOFZwVi9HTWNHb1FydUs0NnB0VFZLSmJMT0tUTzNpVGtsR2NGMHJWa1JXcDBxWE5nb0RBPT0K",
-      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/desktop-v0.1.4/RandomTrader-windows-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa1YvMzJMaFBibWdjclJ5T0loNTBWU1U2VG9WcG1YdTNBRzJVOWZjcUJKVHhsb2hSK2FRc0trWmg4QWcwL0IzamZBa0lnNWxGbncrTWlpK3MrVUdjTDRDYkpuekZ0ckFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDMyMjM0CWZpbGU6UmFuZG9tIFRyYWRlcl8wLjEuNV94NjQtc2V0dXAuZXhlCjR1L2ZuVnQ3SGlOU1ZXZ2lMajhoTHJYYUNPNVByS2o1QkE2bWtSZHA0dGNEMUVneDNXaWZ2NThIZ3F5UnUxNTZwK1cxSURWWjVhVUtXaTZSNzVzZURBPT0K",
+      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/desktop-v0.1.5/RandomTrader-windows-x64-setup.exe"
     }
   },
-  "version": "0.1.4"
+  "version": "0.1.5"
 }
