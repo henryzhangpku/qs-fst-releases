@@ -1,26 +1,26 @@
 {
-  "notes": "Random Trader desktop desktop-v0.1.16",
+  "notes": "Random Trader desktop desktop-v0.1.17",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa1YvMzJMaFBibXFjb3hSalZOWUlKMGxNVFdydXFOV3hMQ3lRYzlzQkNFNXJhazNrWkNlQktyYTY0OU5tRXlDOUtGSGFveUJ6ZzlXUU05dUxQRUFsUlRBYjFEL09mTEFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDkzNDQ1CWZpbGU6UmFuZG9tIFRyYWRlci5hcHAudGFyLmd6CmovNVgyZlRxTk1pdWNxSzEyMGNyZlBvL2UxeCt5Y242MHVtWXhyNTR5a1IxN0VMNlp6WHhISExOemQxY0JUR1JYUmthY2tZQ3dYd1NvNERFRWJwa0RnPT0K",
-      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/desktop-v0.1.16/RandomTrader-macos-arm64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa1YvMzJMaFBibXMrbjB4RGRvVmZXYXZ5UEhwQ256WFc4L3VVYUNPM2tEWFlmS3d6aFB0UytObXh3M3BQbTczQzF1d2dnU0hkM01iTERlSjdSR016RThLUVhpUHQvQXc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDkzODkyCWZpbGU6UmFuZG9tIFRyYWRlci5hcHAudGFyLmd6ClRUc2ZCWStJQzRZekUwa3YrQkhhUjB2Z0ZFZ0lQSElZcWlVZlQzSmpIanVqNUxWc1RoZWUzNzlUUjRWczBpcUFJRlFUSVVlWXZMbVdickdmaU4yQkR3PT0K",
+      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/desktop-v0.1.17/RandomTrader-macos-arm64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa1YvMzJMaFBibWxWZlkyZ0ZrSHI0dEhWUnRmajFKQ09lTngyZGlGREsyckEzUkUvcGdVWnZrMFdPTFFmS0U2Sm9LMjBHTUVJd3FkV0gvVFRKc0dkZDloUmh5RmpWZ2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDkzNjA2CWZpbGU6UmFuZG9tIFRyYWRlci5hcHAudGFyLmd6ClhWR2tEdWwzRXVLNkh6TGRRR09pcHcrRm52eThOY2M1MVc5MWNOckgvckN3WGpwR1hRRi9SQ05IY2M0cDJCeTYwSVdGK3o1emZXSDdYQzVEYVBlMEJRPT0K",
-      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/desktop-v0.1.16/RandomTrader-macos-x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa1YvMzJMaFBibXJ5c2xiVnU5elhPUGM3bWhrOGtqWXdPNEhWa0lRemFlbGlBaWFXOHhTbU56WGM2RGNzWFJOa2VDU3RXU0lqK2tJMDY2Q014cGwxMVpSNE9QbTdMWlF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDk0MDU4CWZpbGU6UmFuZG9tIFRyYWRlci5hcHAudGFyLmd6Cit5MnNseDhiS0hsc09RWUxCTC9iZXU1L3NQcU16Slg3WWd1WFJXU2JoZGhuUldrQ0xHbnV2ZWR4OGFtaCtKbE9nUTVJZkhTcmhzTXRuSDF5ZlJiNkJBPT0K",
+      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/desktop-v0.1.17/RandomTrader-macos-x64.app.tar.gz"
     },
     "linux-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa1YvMzJMaFBibWdIOW44UkdqaTZLcGdSdGR5VnpkMm1mS2phWHo3RU9ITGxKZmRQTHo4TDhmdVVweWJ4SER0ZFVpY3l0Z1BWZWQ3UTNiSFN4YUtXaExqbGw5ZWYyb0FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDkzODM1CWZpbGU6UmFuZG9tIFRyYWRlcl8wLjEuMTZfYWFyY2g2NC5BcHBJbWFnZQpyNkpFVmt3N1BXV0NxVVljVGJ2QkVXd1JqYXlhQ2duRW1CREFzaWtFTTNmOUxSNWUrb2xmM3V2Z21EVlZNc0xtVWNJR0MvemUxM0taNUMwUksxTkRBZz09Cg==",
-      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/desktop-v0.1.16/RandomTrader-linux-arm64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa1YvMzJMaFBibXZZcDQ0VzV0NGRUZTNtZFkvSmRzZHlsNjVtc25VcWozSDg4R09iOERNRDMwOGNSV1h3azRJSU44N05LcENDOTRxM1Zrb1NGb2hmL01qaDVWSGZncWd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDk0MjM2CWZpbGU6UmFuZG9tIFRyYWRlcl8wLjEuMTdfYWFyY2g2NC5BcHBJbWFnZQpEaVlXUGdvRm81U2M3c1dSRG1VN2NnaUFvK0h1VG4zZzhUQVpqblF1Z3hWUE9HTDA2M0JSOXlWaSt5L0cwQWNNalcvYjhaWVB5RVlPK2p6cEphbThEUT09Cg==",
+      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/desktop-v0.1.17/RandomTrader-linux-arm64.AppImage"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa1YvMzJMaFBibWtJcjBpalZabUN6YjIyaEhCNlNweERwS2ZWOTVTVzBhNkczQUsxeWpHMHRFSldwVzFJUXpwMVJnbkluZ1U3RU5lUTJ1ZEJORUpzb2R0NTFsdGZKNWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDk0MTkyCWZpbGU6UmFuZG9tIFRyYWRlcl8wLjEuMTZfYW1kNjQuQXBwSW1hZ2UKUExDU0VFeHFidlYwSzFNRW1mblBJMjM2WmdQdFVxZWpvN0VCT2lHSGlZTndISnE5ajhEODZGTlloVWNIY2Z2dlNiQzZsM3VGZHNhYVMzendSRXppQUE9PQo=",
-      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/desktop-v0.1.16/RandomTrader-linux-x64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa1YvMzJMaFBibXVnZVhzRHVsVFEyOXNHQWh0MlBMaFFCalQ5UDVFcGNwMEc3SmlSVXVjUFYwR2VPY3dIWGducHFBaFQzV1M2amNXNEluZURGdDEyVDI0NTQvdFVrUFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDk0NTQ4CWZpbGU6UmFuZG9tIFRyYWRlcl8wLjEuMTdfYW1kNjQuQXBwSW1hZ2UKRzBEcHVjMFliczVPaXN1QTE1TXI2RldrUFlyaVJjTkY3NzV6YTRlblh6Q1h1QXVOa3hZWUxSdFlwZnhVcG5nSVN4R1JqRDBMMjlwSGxIaGlaU0dtQkE9PQo=",
+      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/desktop-v0.1.17/RandomTrader-linux-x64.AppImage"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa1YvMzJMaFBibXFKdnMyNzh4ai94a0l2REM5b2Y4VThSYVl3SnIyZmFpYzlUdzBiQzZuY2Z3aXJyU3pZTVBDUTRkR3gzM2poOExUb3VRNWw3T0dCSzhFYjZNZnkrQlFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDk0OTIwCWZpbGU6UmFuZG9tIFRyYWRlcl8wLjEuMTZfeDY0LXNldHVwLmV4ZQpYRHQ4S0dQYy90Z09VSHJJeis4aVk3MXI1MGhXaEZLZXVyeG5ObDFLYWlVb1QxTFRzcHJjY1Bwc2VLaDQ5NGhINUxKYVN6REQ3NTNvWDlBa00wbTZBQT09Cg==",
-      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/desktop-v0.1.16/RandomTrader-windows-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa1YvMzJMaFBibWxXQ1pRR2lZTzNYVWt5NDlLQm5pMC9nUExtSDdDaGF5R1hZbXp2N1huZ3NNQWhIVFJPbkxwQjBVdlNmdzFlLy9MdVFlYXJsVHM1RjBWMnJIdElHWVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDk1MzE4CWZpbGU6UmFuZG9tIFRyYWRlcl8wLjEuMTdfeDY0LXNldHVwLmV4ZQp1NFpqZ25Yb3BMamsvTlZUTDFkYXlLSWdEVDM4QjEvR3hINFMyTzFmOXczZ3AwSkh1M3NPNFk3aVIraC8weHhhY1ArMHNnbUlJYmFMWTloVEVnU2JDdz09Cg==",
+      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/desktop-v0.1.17/RandomTrader-windows-x64-setup.exe"
     }
   },
-  "version": "0.1.16"
+  "version": "0.1.17"
 }
