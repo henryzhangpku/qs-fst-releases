@@ -3,10 +3,6 @@
   "pub_date": "2026-08-12T03:00:06Z",
   "notes": "Random Trader 0DTE desktop desktop-v0.1.20",
   "platforms": {
-    "windows-x86_64": {
-      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/desktop-v0.1.20/odtetrader-windows-x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURmhyT0laSXozNDlhSmYxNGFzOFFRZk12aGRpM014OWY5MXlTYVBOaGFhSHU0d3k2cEJ0TGNXcStMT0NuQXBOd0huVnU3YUFqNUhUdmF6NEpaOEphTUUxSHIyUCt5ZXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NTAzNDUzCWZpbGU6UmFuZG9tIFRyYWRlciAwRFRFXzAuMS4yMF94NjQtc2V0dXAuZXhlCk1zNnZWUCswRHBhMEh6OUh3OWNwMDY5Ymp1SFJ1TDZYLzJ6WXB2S0dSd2ZNek5IU0I4d1N6ZnhtcW1LOFVxR2prU3VNaFd2M3dybGY3dGxHLy9BMkJ3PT0K"
-    },
     "darwin-x86_64": {
       "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/desktop-v0.1.20/odtetrader-macos-x64.app.tar.gz",
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURmhyT0laSXozNCtzQjc5cWNVczRQUHNKZjBUNHBzUmFCTnE0akZnL2F0S25OeStxYzZaMDMwV1VOaUtTSHIxczFpd2pJQldVODNJMkhSTzJVMzVpMUFxK2QrVWh1SmdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NTAyMjc3CWZpbGU6UmFuZG9tIFRyYWRlciAwRFRFLmFwcC50YXIuZ3oKUWFqaVI4d0loUUtBcEJYR3NXa3ZYcjliOVRVTlhlOXJSVEFJbzE2UkJaVzh1amFzNzJiNHZhcVZHR0JBZFV4ZHBEd3YrNS9UVDgvOThGM3h6UjI0REE9PQo="
