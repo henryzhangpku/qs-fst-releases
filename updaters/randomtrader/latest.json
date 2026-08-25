@@ -1,26 +1,26 @@
 {
-  "notes": "Random Trader desktop desktop-v0.1.26",
+  "notes": "Random Trader desktop randomtrader-desktop-v0.1.27",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa1YvMzJMaFBibWxhbnQxYnlWTW5aOGEwUVdtc1dMTGlkUmh0MzJCak9sQk9NR0Yzd0ZVb3F6Sm1iWitwejVKeUNLNU0xa25Sa3pJc0EyMVlWMHNkUG93NEFoZFo4SGdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NzU4NTUwCWZpbGU6UmFuZG9tIFRyYWRlci5hcHAudGFyLmd6CjBTVTVvdXZydmw5elcvT1phVkNYbjF6dVVSKzNOTDk3NVU3UWRVNDVGZnBxYWlVVmFwb0JMR21aZmFGQzZPNHNueWZMQXVkcCtRTHRFbklqNFFRZEJBPT0K",
-      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/desktop-v0.1.26/RandomTrader-macos-arm64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa1YvMzJMaFBibXB0Mmt2VHFLbTBsdGZyREpSS3Q5alc0aGw3eThRRlBWZ3NKQ2piRVRhYzA3WmhGR0RiRDlsWHdXdy9ab2JodllmeUZQZE41MlpGTURhM0huNk9GNFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3Njc1MTg4CWZpbGU6UmFuZG9tIFRyYWRlci5hcHAudGFyLmd6CnJxT3BHVlFlNXFBRUREUWdiWDIrRFhIdE14M0h0eXRQalU4L3d2NnJ6TUEwWUwvajhpcTlBcEFqUmZ1V0VPVnd0TW1nN1NuN25GSHRhTjNSUHlqbUR3PT0K",
+      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/randomtrader-desktop-v0.1.27/RandomTrader-macos-arm64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa1YvMzJMaFBibXVFTEZtQWxrTHBRaUJseEFBcjduSlZBMTZJVkpPczU1MEpXN29HZk1JTUxjVXlzZXlJNmg1VWJ1WGJlNnh5aGxTZ0JDclRsZXJYRVlSOHpJL0lsMGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NzU4NjMzCWZpbGU6UmFuZG9tIFRyYWRlci5hcHAudGFyLmd6CmxOTXFXNkFWWnlmTFNBU3B4bWRLWHJCQnJYLzJjVDlCdXYvbmpYRzNUSUxPaTlweDh2cXRUeXFoeFRwZWtYVmUvTnBnNGJ6OVpOZldLemZDbnNXZENRPT0K",
-      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/desktop-v0.1.26/RandomTrader-macos-x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa1YvMzJMaFBibXJBcjFkbElaY251dkszMXh4Y01Udk1yMk8xY2ViTFN0dlBLWFVjamlPTWNLeC9GSlJzVkgwSllqeHBFQ3NibDhWdWZiRHVSTVdLZkpXcEpzZzEwU3dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3Njc1MDA0CWZpbGU6UmFuZG9tIFRyYWRlci5hcHAudGFyLmd6Cmd6d050bnY2NmdXZG9nb25Pa3FpbjJ0RkVZTFF0OGJ6azBkS0RBUk1mOUpZQVRYT0N4aVNNRWV1MzNZS0RmUlBWRHNnM1NZZU5JMzdaUDA3TmYyNEJRPT0K",
+      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/randomtrader-desktop-v0.1.27/RandomTrader-macos-x64.app.tar.gz"
     },
     "linux-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa1YvMzJMaFBibXFxRVU0Zm93MjdSRmIzSXpBV2cyY3ZtZjdoNlgvRDNWQmVodlgra1YrZWNUUy9qSVVVcW43Y1ZlMXVaU1BLNGtxcThVTXNmdXU0WTR0VHc2ZUcwTUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NzU4ODgyCWZpbGU6UmFuZG9tIFRyYWRlcl8wLjEuMjBfYWFyY2g2NC5BcHBJbWFnZQpDZWZxbHRmanlYVUZvSmZIbEEvM2NKU2JxcXB0RlZYVkI5eDJWcXVuZDlPWmlzYTluSFdUNTZFVGNQK0tMUWJuK0lDenJoYnFqR1lPMVU3emV2alNCdz09Cg==",
-      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/desktop-v0.1.26/RandomTrader-linux-arm64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa1YvMzJMaFBibWhONU5ZYUdZS0pOYk05OEtwSUtMMzBJTnJKR1NCQkp5RzMzVUxjbEdBTkwxckVKNHhUSlZRMmFDMHVMNlh1d0FWNS8xeXV5akdNT3FkeHdTWWxSbVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3Njc1MTk3CWZpbGU6UmFuZG9tIFRyYWRlcl8wLjEuMjdfYWFyY2g2NC5BcHBJbWFnZQpxNVpNbkN4OVE3WXRWMitHRzk2QnJoNndmb2w2ajVFRGo2TFAvWkgrandrOVZpSjlSSGNLekNGelc3ZHZ2dkRuSTdWNG5lSXV3YVZjdVBFUERpajBDQT09Cg==",
+      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/randomtrader-desktop-v0.1.27/RandomTrader-linux-arm64.AppImage"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa1YvMzJMaFBibXVtRm5OMkg3R01aWk82dTJoaVl2V1lvUHZPdklIcUdQcS9yUC9KMEV1YjFRRWI5THhLV2hkNFVHZ3ArMEpWdzExWmRrSWZDZFp6bk5jcE8rK1JOeGdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NzU5MTA2CWZpbGU6UmFuZG9tIFRyYWRlcl8wLjEuMjBfYW1kNjQuQXBwSW1hZ2UKYnZxbXFtTTNXaTVya2hod1JER2ZlWnN3YXhsNUJZazJ3Z2tXWWkrbjhBNis5YU5GVmxOYjFJS051ZnhsOHFRSlJtQllMcjZvSXd5VE9DejdrdVBhQ3c9PQo=",
-      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/desktop-v0.1.26/RandomTrader-linux-x64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa1YvMzJMaFBibXNhTGY2MFhIaXJrU3hiVk1hdDc1dCtzMzg3dU41Z1lPZ0ZFOFdIU0V4SCtQQnBBRWY0eFYvaWcyRGsvWDhtMklmbk9YWEcyR0hCeGxJNmhBMDVPelFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3Njc1NTA4CWZpbGU6UmFuZG9tIFRyYWRlcl8wLjEuMjdfYW1kNjQuQXBwSW1hZ2UKVGtaZjd0bmZNd24wdC9lQjdHemkrUy9hQitqL0hIRGNKbWVzazNrK3lTTWxaZzJtWWk1RVMxUk56LzJ2ZlgwVFhGdWcvczZaeTFmWU5vQ3gxTjd5Q0E9PQo=",
+      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/randomtrader-desktop-v0.1.27/RandomTrader-linux-x64.AppImage"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa1YvMzJMaFBibXBzU1Bsd29rdTlKUTAvT1FoWDJ1MDZyTCtlVUhNZzZIeFpSd3diTFpRdEQvSlJwdkdIeGU3eldlRkZSUEswZVpBUEtzSzJZc2VTblM2Sk0xU1JRdmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NzU5NzQyCWZpbGU6UmFuZG9tIFRyYWRlcl8wLjEuMjBfeDY0LXNldHVwLmV4ZQpzbVdoZlI5VFd0WW5FSGFyWHdhRXM5YmRqaDJtcTVMT3hLVHNDMjR4R09vc1NOQjRBWkJaNFA1aWpzVXE3SjFla3JyUk8wemtSN3FvbVBlMjIzQlNDUT09Cg==",
-      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/desktop-v0.1.26/RandomTrader-windows-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa1YvMzJMaFBibWhTRzlteUt3MmJ6Vzh5bTJHN0pyWjc4MEVQblRJb2FnMHFFQVpzK0w0M0dFVEgvU1N2UGdhMU43OUxGdzRiRWFINjFXRUNpYVBjZnNkeFZONXR5U2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3Njc2MjkwCWZpbGU6UmFuZG9tIFRyYWRlcl8wLjEuMjdfeDY0LXNldHVwLmV4ZQprblVteG1tM2RNRGhKZTNOanZXamswU3JrZ1NsdXJuaFFobERia3JZR3VMNHM2Z1ZpcnVCbzlEZmRrR0cxaExKVUcrNUtNMGtrMXRhUnBOVnJhczRDdz09Cg==",
+      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/randomtrader-desktop-v0.1.27/RandomTrader-windows-x64-setup.exe"
     }
   },
-  "version": "0.1.26"
+  "version": "0.1.27"
 }
