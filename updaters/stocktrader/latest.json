@@ -1,0 +1,27 @@
+{
+  "version": "0.1.0",
+  "pub_date": "2026-08-29T16:45:20Z",
+  "notes": "QS FST Stock Trader desktop desktop-v0.1.0",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/desktop-v0.1.0/stocktrader-windows-x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbFJuYWFGVFBFaHl6Vnkvd2RieVVJMjQzMHgyU2lQVmczRDkyeExhNDhFTXRhNTVCYS95bTUzcysybXFjNmFRdVRPZTZheDR2dlJXeXJ5TlVuYzN6VXRXdktUN09Gd1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MDIxODEyCWZpbGU6UVMgRlNUIFN0b2NrIFRyYWRlcl8wLjEuMF94NjQtc2V0dXAuZXhlCkhBRVZXWmpFUDZHQ29VUzExb0xFZzd5cDF5Mm9XNncwd05Sd1lBV2tWK28xZ2k2ODNGNUJpaVpJZFB6UTdZRFhRdUE3dFVySjhJUXgrclFwazVzbERRPT0K"
+    },
+    "darwin-x86_64": {
+      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/desktop-v0.1.0/stocktrader-macos-x64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbFJuYWFGVFBFaDFhWVd0eEd6L3IvLzJtU3FxbHp0LzhOZnhhamVMRk1QTGl6RFRjeGx1Vjl5S29pY2kxTjFvMVc1UUcyWnBpL0JwT2ZCdkJuWUlMM2cxTUtraWIvbHc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MDIwNTMzCWZpbGU6UVMgRlNUIFN0b2NrIFRyYWRlci5hcHAudGFyLmd6Ci85UmQyQmxpQzRFcmwvL0JrY3lLOFkwdlN0WmE3TjFvR1JudGVXajd6TmVta0cwUWUxMVhZZlFhY3Z1bFB4U3NIMjFIZWZOZzBJcWpGdldQeUs3TER3PT0K"
+    },
+    "darwin-aarch64": {
+      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/desktop-v0.1.0/stocktrader-macos-arm64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbFJuYWFGVFBFaDJyeU9ZT0VsYkVod3hibW9JMkhHdXRsVzdZQmZBRmw3cjhpRzhOQ0QrdG15a0lySVM0aEcyK2FwaXQzM2VqRmpCWHY5SVZEc29YbnVONjNrNlhEaEFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MDIwNDIzCWZpbGU6UVMgRlNUIFN0b2NrIFRyYWRlci5hcHAudGFyLmd6CkQ0VmRTNEk5Y04wWDYvWXBKaXFHWEY3KzFubEx4YzlQU01IQUphRTh0NGRsdi9NMUozV3g5OFNURDZ5SFhVTEhiQmJZVXFVVVJFaEtJNk5adFhPU0JBPT0K"
+    },
+    "linux-x86_64": {
+      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/desktop-v0.1.0/stocktrader-linux-x64.AppImage",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbFJuYWFGVFBFaDJwclFXblpFOXR5N0o2c1gyOUl2UE5UZm1PRGlzSmVLcmc4eG5CTlVDTllBWXp4T1N1VlJkZ0ZlaVZSTEx5aXhRY1NFcXNCTzZwZTN3N2xyQ1V0WkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MDIxMTAxCWZpbGU6UVMgRlNUIFN0b2NrIFRyYWRlcl8wLjEuMF9hbWQ2NC5BcHBJbWFnZQp3R3FITWZMTjlubFdnb1ZuTGJCYWhTOU1UbFJUT2liVk9MN0dyMGtWd1NJeW9Ha0s3WlpQdFdUUmlMN2YrTUhmYXhDKzNpUlB1SGZkd0FUU09hazZDdz09Cg=="
+    },
+    "linux-aarch64": {
+      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/desktop-v0.1.0/stocktrader-linux-arm64.AppImage",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbFJuYWFGVFBFaHpLTTc5czRkblZhZTZRaHBuNnczcW9mOUNwQVpER1lndHJJOG5VaVlydGdLWEpFSEV0a2s3MEZqM2xpb0FGYnBKYlNhdkdwM2lSVHZmcE1LTGRWQXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MDIwNzkyCWZpbGU6UVMgRlNUIFN0b2NrIFRyYWRlcl8wLjEuMF9hYXJjaDY0LkFwcEltYWdlCmsxYW1ZS2E5S2ltSEVSNUVnblB1RFhGRHNXWjNYRkZaRGVxTEROeGpqNUxDd0ZaSDBOT0dMNnVDbmpTUnhhVWZwSWRMWmZPM3BKRUF3YWFBcGQxV0NRPT0K"
+    }
+  }
+}
