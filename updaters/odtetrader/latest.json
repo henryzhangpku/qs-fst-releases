@@ -1,27 +1,27 @@
 {
-  "version": "0.1.45",
-  "pub_date": "2026-08-28T06:29:57Z",
-  "notes": "QS FST 0DTE Trader desktop desktop-v0.1.45",
+  "version": "0.1.46",
+  "pub_date": "2026-08-30T01:04:31Z",
+  "notes": "QS FST 0DTE Trader desktop desktop-v0.1.46",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/desktop-v0.1.45/odtetrader-windows-x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURmhyT0laSXozNCtERGJ2WlhETFZwTyt1TEYyZ1VsTTRLRVcyS2xDU1JuN2VzVGtMYUdxNHlwaUt1V0d5bHc2ckdHaWFWbzRrdTEzT1JKWUtLZ3A4WjRBMGxJWS9hZXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODk4NTAxCWZpbGU6UVMgRlNUIDBEVEUgVHJhZGVyXzAuMS40NV94NjQtc2V0dXAuZXhlCnZvRHRFS2hHcGQ2QTRqb3JuUTUxZ1cwV3AvUXBoRGhKSnltd1FJSjZxNkxPSkRhTXN6ODlLSzFKVFJyRUNJUzc5MkhpZkpLNXFEZnRHeUJHcGFmRkRnPT0K"
+      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/desktop-v0.1.46/odtetrader-windows-x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURmhyT0laSXozNDhMNm04QTNtdTU1TzBJMHBvLzZCa2VJZHUyVkdqVEZYdVI4MHV6SjV5ejlvMnFRNkZLL0NWc0dNdmEvbmR6L01HdkIyeWQyU1VwbEhLZmRiNUlvdlFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MDUxNzkwCWZpbGU6UVMgRlNUIDBEVEUgVHJhZGVyXzAuMS40Nl94NjQtc2V0dXAuZXhlCnlNTFRpNVdWSDFXYXRGZVdYRVVmZVhPSExBMEwvU0FDMlhyTms5MldoM3ZaSGlpZWF5OHhuWkdFUUhmSG9DbTgwWlJ4UEVhc0ViQ2J0emN6N1BQMEJBPT0K"
     },
     "darwin-x86_64": {
-      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/desktop-v0.1.45/odtetrader-macos-x64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURmhyT0laSXozNDd5dlBmNWEwczIrY0ZwN0JDbFBjbDc1TkZ2QUxXRUlsY3ovbjNwRll6VmxrNGJsMTFiU1FkL2lSOWszVi9Kd0pSQXg1cWs0YVJDQjRYVWtCNmwrS2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODk3MzIzCWZpbGU6UVMgRlNUIDBEVEUgVHJhZGVyLmFwcC50YXIuZ3oKSDBwYmFCVndsVFB4VWEzZzFMQlowekhhUzlpeHdrUDBXS3NmWi92YlV0M3k3bWpLUkV2MlF6ZXVIRzJUQVRsaTZXZ0VMeDlsbCtSbUxacGlYZ0E3QUE9PQo="
+      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/desktop-v0.1.46/odtetrader-macos-x64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURmhyT0laSXozNCt6MU8yL3ZYVEJ4bmxQaHJmaW0xdjRFb1dyUDA0eSt5bkZ5TnVvdkUvb05aellWTzNVR1FPMi96UHNESytRRDNiNTR1Q3VFRHhBQVhqenZBbGJ2akFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MDUwNjcyCWZpbGU6UVMgRlNUIDBEVEUgVHJhZGVyLmFwcC50YXIuZ3oKaXBlRWhFWWJEYmR1bjFPOU8wT3dWcDFqOEw2cVM4SnZYQkluTnB4dlRWbzVCSFo4cWNxNkkrbXVDc0FTQlIyeldVUUpJeUgxY3dMQjZIWjlyUmZlQ2c9PQo="
     },
     "darwin-aarch64": {
-      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/desktop-v0.1.45/odtetrader-macos-arm64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURmhyT0laSXozNHdxQWtCc3l3LzVPUkc1ZktpSTMyTzlDZlc1WGRKb3FqOXFVKy9GZzRvcUFyVGtuUnRFNnNza01GeDhRZXlKQ1dRK2N5VzR6NHpGN011ek51b1RYbHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODk3MjkyCWZpbGU6UVMgRlNUIDBEVEUgVHJhZGVyLmFwcC50YXIuZ3oKSWRzRWs0Ukc3R3M1VEdSb3hoTnNyWjlQZnBTbnFiR0NIOUs5Z0c2RjVuL1pmVlY4bTcyRzNsWXdabDlLMTBmRkUrWkJmN1hCNEZFM1FiUmxRS1E5Q1E9PQo="
+      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/desktop-v0.1.46/odtetrader-macos-arm64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURmhyT0laSXozNDFjcVFHNnFMWVVPN2d0OTlEQlpRaXBvbm9WUzJuc0RPNXJVWUN6UUxRcEp5NFc3VFh6cG5kS3dGWnFMTGtjN3ZTeEZ6cWpsbmN6Wi9Qcmc0M05ON3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MDUwODAyCWZpbGU6UVMgRlNUIDBEVEUgVHJhZGVyLmFwcC50YXIuZ3oKWURza0tDYXVuVmVsa2VweHB0ZWZVVlFHbmt0bU80SFRkQzh5QTVUUlhGaTdVTU9jYWRPVVltYk9nWjNkWmJIZHNlT1BEeWlvRjRjdHpJc1Q4SnoyQXc9PQo="
     },
     "linux-x86_64": {
-      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/desktop-v0.1.45/odtetrader-linux-x64.AppImage",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURmhyT0laSXozNDZORkpOY3FmNVBCeS9vMDZHaWRpK2twLzV6dWtxUU0wUTNOaVBqTTFIalBmK01zSHVoWjV3Y29Hcmx2TnF2TnR2S3FPajA2MFE5bDRwdUgxRWNUVndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODk3NzM3CWZpbGU6UVMgRlNUIDBEVEUgVHJhZGVyXzAuMS40NV9hbWQ2NC5BcHBJbWFnZQpUd0hzcDZhak1vSFZ0UnpJSzRBYUcveHB5M2NNS3lpcE9jRTVlZ3dKS2VOZ3Y3ejh6MERFejJXVnduKy9nK0VHTVd2U2hpeE1iMmpDVDVYK0tuOGJDdz09Cg=="
+      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/desktop-v0.1.46/odtetrader-linux-x64.AppImage",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURmhyT0laSXozNDlpQnBsYkJocG5pNlVudExReENVbU1jYmRKK3BiQlhYZUhsdERzSEI1MkxMOW83V2QxWlA4eDNlU3dqbGlxZG5VRDZNcWpmTlJBNW1DenFCd0RhTkFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MDUxMjMxCWZpbGU6UVMgRlNUIDBEVEUgVHJhZGVyXzAuMS40Nl9hbWQ2NC5BcHBJbWFnZQpxbmFGYUN6amo4MkpEZTNnWnlUSW5LWlBqZEI0eTgvSXZaeitZWmI1REdoeDN4bjBydWoyWHB4RUUvZGdmb0ZIYjl1SWJqR1plZXRrNWR0SEVncENDUT09Cg=="
     },
     "linux-aarch64": {
-      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/desktop-v0.1.45/odtetrader-linux-arm64.AppImage",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURmhyT0laSXozNHo0cHd1T000a0FmTjBXdURwZHAzN3RPcnoxdllKMjYvOXJKMlhRUzlDVS8yY25uTnkxTXVZTDVsQ1kyTFdRbWQ4dEx5anFVQlVTcTRGTnBCZ3h1UkFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODk3NTAxCWZpbGU6UVMgRlNUIDBEVEUgVHJhZGVyXzAuMS40NV9hYXJjaDY0LkFwcEltYWdlClpyRlhuWXl3S1hDcU5UbFpFRkhuTHZqLzJodUdzbEdvSmJnaS9PVjVHQ3VkSEgwTFVnelNwSkdpblpzSUsxbDRiaXdlTnJ1OWZpNnIvMnU5eGRRekFnPT0K"
+      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/desktop-v0.1.46/odtetrader-linux-arm64.AppImage",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURmhyT0laSXozNDB2L3BBK2ZPVGl1dVVUa01mVndPREJxeVdPTTcxWkJZS09Tc29ndkJrQU9MOE02dmRHVmR5VVg3TEhFT0VJempnYVBvZ1hZeDVyS3RkTUZ4YVd6ekFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MDUwODkyCWZpbGU6UVMgRlNUIDBEVEUgVHJhZGVyXzAuMS40Nl9hYXJjaDY0LkFwcEltYWdlCkFyc0hVZVJGeW40OTlhVHFqeDJ1SW9VbkFhUVVOajhKWVJtVEJKRm5YcURRTkNwMUZqQjYvMFkwRFl5ZnJPTmkvbStIdmlYSy9xRytlbVlSSVhxaUF3PT0K"
     }
   }
 }
