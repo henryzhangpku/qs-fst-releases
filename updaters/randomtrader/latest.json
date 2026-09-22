@@ -1,26 +1,26 @@
 {
-  "notes": "QS FST Prediction Market desktop randomtrader-desktop-v0.1.50",
+  "notes": "QS FST Prediction Market desktop randomtrader-desktop-v0.1.51",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa1YvMzJMaFBibXY5TlpIUmFDT29TV3p5Tjg5VnhnTjBOUU0wTk94ZTlJa3dsQ3EySzh0d0dJUTJBU1NWSHZRU1JVWW5kOTZqaGV1Y1B4WmVXNFF6cnJ4blIwMnQrK0FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDkyMTYxCWZpbGU6UVMgRlNUIFByZWRpY3Rpb24gTWFya2V0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNTAKbEVxSUpTRWRURTA5QThQVlRxTko2bC9RbXhNMlp0ejlZT0VOazEvREVPT3hQbmxyaUtDblNRTkpPUk4wVENYQW12cmpqKzRteDFVRFR2UlFrM1ZuQWc9PQo=",
-      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/randomtrader-desktop-v0.1.50/RandomTrader-macos-arm64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa1YvMzJMaFBibXZpTm1zUlFBVXBQUWFIbEN2YktDQjVueXZWUWdRbzhjK1FwZDc4QSszdHgwYjVPN3FpSnB4RlppZlJmeUo4Q0wyU1VqSHloSDFNbi8wemlhU3BuWncwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDk0MjE4CWZpbGU6UVMgRlNUIFByZWRpY3Rpb24gTWFya2V0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNTEKMGJkNWNCRmIrOVQvWFR1Vzk0a3FtenJ5eFVtaE40V3BQeDJFNytqNnFNY3FJdmtWZHhwZVgvdWY3NmNWUy84UTQ5R0NjWEsyM3JIZ2hRNkJkRjhzQ2c9PQo=",
+      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/randomtrader-desktop-v0.1.51/RandomTrader-macos-arm64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa1YvMzJMaFBibXRqMi9DZzdXbVg4eWlkUm1DS3p0VEI4d3B3RXZzV3h5Q2JqUlZmY0lPMldGRlBEL21sUC9tWW9NY2UwYUJJS0NwbDlZeGVVNHA2a1lFTlBzelZnSlFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDkyMDQ1CWZpbGU6UVMgRlNUIFByZWRpY3Rpb24gTWFya2V0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNTAKUnFRd3d5VitTRFltWnZsT2R6am1QN2lSN2pwdHpmR0xJOFJUbXJMRUY3QXdWdkFsNHovR25nS0N4OFprKytyWWF2SEJtVjJBRkxsOFU4cjVnT0hNQnc9PQo=",
-      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/randomtrader-desktop-v0.1.50/RandomTrader-macos-x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa1YvMzJMaFBibWliRWFaeXk2YjI2aWE2QlJFZC9DL3JUdFpWZHhUeTd0Zmx2b25RdmNzRVRDMEFmU0pNZ2NjZG50SVNrTEFPTmF0OTgzL1BCVUo0cUNCd21LQ1Z2eFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDk0MjcxCWZpbGU6UVMgRlNUIFByZWRpY3Rpb24gTWFya2V0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNTEKVFQvTVViNmlrdmIwOG9uaUlGMkJXVDFTN05aN2xPZ05TRFdLNWRvMWd0WFlhd05EMDhJMjVnczNDN3NXR3BoL2dxd0ZwQ3B2ZVFwTFROWnM3M0RlQUE9PQo=",
+      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/randomtrader-desktop-v0.1.51/RandomTrader-macos-x64.app.tar.gz"
     },
     "linux-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa1YvMzJMaFBibWswc3AyWWVpZitWdGd4OFVFdm0rL1hJM1diUG5KcW5JWnZ3blFkMWxNZU5aYUFWTDNiQU5zRnNDVkJCay8vYUJsQ2tZcElQS3c1ZDhvMkg4aS9MT1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDkyMjU0CWZpbGU6UVMgRlNUIFByZWRpY3Rpb24gTWFya2V0XzAuMS41MF9hYXJjaDY0LkFwcEltYWdlCXZlcnNpb246MC4xLjUwCjBKOFhyczV2YkhoRDBiVEpUbldlMWlsNmZKR2h0WGRsdEJGTTBINjlQalpBYWhiVGZ0VStqOWp3dU5YQVNmVGlDWGh6MFpHRStLaCtNZ1VmQnM0d0NRPT0K",
-      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/randomtrader-desktop-v0.1.50/RandomTrader-linux-arm64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa1YvMzJMaFBibWtDcElHSUpldmpSZTh3K3FtMThrczI4QndRMmQrRHNudlFMNEs0TWJKL1AwcTlucU9udjd5bklJZklPQmMrUVllTEhZTkFGTDdNZmttTnlWZjN6VFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDk0NDE5CWZpbGU6UVMgRlNUIFByZWRpY3Rpb24gTWFya2V0XzAuMS41MV9hYXJjaDY0LkFwcEltYWdlCXZlcnNpb246MC4xLjUxCldOTGRUVitVVzZIT3pjak9qS3hJSExodmNzRjc1TGt0S2s3eWpRNEpsaW9sejhQUkpTaVpwWnM4MlJoTEdjNmVjL1FQV3pDVVhSL0N0SkdlN25uWkR3PT0K",
+      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/randomtrader-desktop-v0.1.51/RandomTrader-linux-arm64.AppImage"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa1YvMzJMaFBibW5PN2hUZzFuVzhvSTI2YkRCZ1h3YVR5RmUzM0EwMzR6OHp2clhCRk1kRXY2WTVFeWhqV29kSGdSWWZyRXN6aWpXeS9pb3NRVkY3MGw3ODd4enFTRHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDkyNjIwCWZpbGU6UVMgRlNUIFByZWRpY3Rpb24gTWFya2V0XzAuMS41MF9hbWQ2NC5BcHBJbWFnZQl2ZXJzaW9uOjAuMS41MApIMHRzeHFUNjVGZU9ibFRucXB5RStqbGQ5OWc1bnM5czdSQXRrTmxuRHJBeUtvMDRPSWxMcXFCMnY1WnRXZkk0WklKUXlVaktjcmxNRm5oWm1QU0ZDUT09Cg==",
-      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/randomtrader-desktop-v0.1.50/RandomTrader-linux-x64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa1YvMzJMaFBibWo2WjV3TW5abWdURjdkRC84RzBLWTY0TllRam5hL3pXeS9jRWVXRElQaXRxeHo4Wkp2elVyUTAvaFpTWDNyMkxIM2toMDJzY05FWm5CZXpKcENKWkFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDk0NzgwCWZpbGU6UVMgRlNUIFByZWRpY3Rpb24gTWFya2V0XzAuMS41MV9hbWQ2NC5BcHBJbWFnZQl2ZXJzaW9uOjAuMS41MQpmSTI3UmVJTnNGZVBOSE9WbXRkWk1sVnNndGNabTZCYjBGRjdrRkRjUXVyK1Z4OGRzT0s2QTZIOG1qcE56a3NYd0lEQmdKdFY4Y0Z0ZXZTUVRHSy9DZz09Cg==",
+      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/randomtrader-desktop-v0.1.51/RandomTrader-linux-x64.AppImage"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa1YvMzJMaFBibXRHTFpqcUY3bVltOHh4MGtBREVoWURheDQra2ZpVUltTFFDQUJxQ082YVo1c1ZKZXFKTUN3VXk3VCtpdyszNkRDRTBGTkoxTFJBQ1ZGdnJ0YUZFbkFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDkzMTQxCWZpbGU6UVMgRlNUIFByZWRpY3Rpb24gTWFya2V0XzAuMS41MF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjUwCm9ZVWE3bzFSc3dMdjl6eXQreHBJTjJSV3loYlhQWWRwZGJUeUxoNXc1RXdjVlN0a2crZEcrQUgyejhiYVZYU0RITFdjdWpxYzBEaHNwMEZndFVDTUNBPT0K",
-      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/randomtrader-desktop-v0.1.50/RandomTrader-windows-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa1YvMzJMaFBibW1va0dRSWtGZnA1WVRDREFOSVEyZzlodFh2cllZZG5ic0pSWklHdW00NHQ5WkRnRzhYWFFiNXVZWVdUblA2V3V1NUplNTl3WDk1TTI3aldrM1VpdkFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDk1MzQwCWZpbGU6UVMgRlNUIFByZWRpY3Rpb24gTWFya2V0XzAuMS41MV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjUxCm1UR0I4Nm82ZE1SUkVVQndHU0dhb2U2M1U0c3VjNVlDMC8zZTM2a25GUGZpaVliYU5JYkt1QTU5c0tzUU1IL1pkUThzT2hKQWhFRmxSaDJ0cVBGTENBPT0K",
+      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/randomtrader-desktop-v0.1.51/RandomTrader-windows-x64-setup.exe"
     }
   },
-  "version": "0.1.50"
+  "version": "0.1.51"
 }
