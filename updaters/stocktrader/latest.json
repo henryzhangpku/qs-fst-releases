@@ -1,27 +1,27 @@
 {
-  "version": "0.1.26",
-  "pub_date": "2026-10-08T00:36:29Z",
-  "notes": "QS FST Stock Trader desktop stocktrader-desktop-v0.1.26",
+  "version": "0.1.28",
+  "pub_date": "2026-10-08T02:03:06Z",
+  "notes": "QS FST Stock Trader desktop stocktrader-desktop-v0.1.28",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/stocktrader-desktop-v0.1.26/stocktrader-windows-x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbFJuYWFGVFBFaDVNWERkd3RxcVp5S0Q0OG55QTMyTExsL0lOdk1YY2NsQndRclpQUHhoVkdwUXpNMG42K01QUHlSc2NSZmNwWURFUjBjMCt6TTRMSFNiL0d4RUVqMHdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDE5NjM0CWZpbGU6UVMgRlNUIFN0b2NrIFRyYWRlcl8wLjEuMThfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4xOAptNkltbGkvT3IwK29SQ0h4RWtjYW1CbHdZbmkxdXBVWWxYL1RmYWZENUhReGdrSGdhYktkSUtJUnM0N3V5cEdIcHMxYWFvaHEvajdVRjFLVDJaVkVCUT09Cg=="
+      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/stocktrader-desktop-v0.1.28/stocktrader-windows-x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbFJuYWFGVFBFaHcwMGFYQlRpK2RnakdiR1FpOFpDU2taZ21MbEh3YnhSV1Zad2lLVlpTMEQwUTR6RWwvVmQyMkExY242RlRFUG9RNGRFMzVQclBublZzK2pOa20zN1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDI0ODUxCWZpbGU6UVMgRlNUIFN0b2NrIFRyYWRlcl8wLjEuMThfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4xOAoyNmVGWElDb1dibEJwbTMvb1EyNnJOMktzNkphbVlCeWhhRU8vaS9FSldNckhPNEh4WjNNR1hMaXQ5dzBlcEtxb0paT0tTZlF0RzM0NitQei9HdGVBUT09Cg=="
     },
     "darwin-x86_64": {
-      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/stocktrader-desktop-v0.1.26/stocktrader-macos-x64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbFJuYWFGVFBFaDY3a1BoZ0M1RmpyVStHV0t4RU1idHY3cWx3MWxJZGoxYWRxUGJmc1dsVUJTQzZjRkM4VUVJQ3kwL0FFLzA2d0hseGhodk5ia0JVelhwU2tEcVJGa1FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDE4MDY1CWZpbGU6UVMgRlNUIFN0b2NrIFRyYWRlci5hcHAudGFyLmd6CXZlcnNpb246MC4xLjE4CnhtME9FKzJKV2d1ZzllWE9pd2hYWGlOQWpWaEhyZ25oSkF3L0liMDRBQnFpUFJWTXRDSE1ocnlVREgzZ3RjeU5ZQzFsditFcU0va3RmNkdLanVrcEJBPT0K"
+      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/stocktrader-desktop-v0.1.28/stocktrader-macos-x64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbFJuYWFGVFBFaDdIMCtUbUIvMmp0dTYxYU1oOEx0L3IvTTl6a00zQS9GTHNGb3JVVzd6OXRXNnR3ZGRiY3U1SmdFYmIxZ0duaTYyZmVzdjU5NVpBY1p0cGdraklwbEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDIzMjg5CWZpbGU6UVMgRlNUIFN0b2NrIFRyYWRlci5hcHAudGFyLmd6CXZlcnNpb246MC4xLjE4CkxBa1FKOTRTSlpCWXQ1Z3gyZUt4TkNHWDc1WVZTaElKRTliMjJtTklsYnNZRHNqSmVDN2lEVDdsNS9iTVJwblZuVGJ6UTFtSkFJVXZGSnlZZ0VTdERBPT0K"
     },
     "darwin-aarch64": {
-      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/stocktrader-desktop-v0.1.26/stocktrader-macos-arm64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbFJuYWFGVFBFaDlQN3JOcm1IQkE0cCt5R1lkaDJ2VXhrb21MN1RpQlVXTnM1cklUTFZUQUllcThNSHB6NWlTbmZKYU5pTWkvRGVJcFZzY1NTTlBmajRPN2NacXZUbEFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDE4MTA0CWZpbGU6UVMgRlNUIFN0b2NrIFRyYWRlci5hcHAudGFyLmd6CXZlcnNpb246MC4xLjE4Ck1lUEFoUGhHQS9XVGxTbG8wNjhBcUJTREpKWmlkT2QxY3JMTE9WaVh3Qm42VWFRaUh5VG1KZkJBSnRkclV0MmNWc2UwakJiUG5YR2VPK2VvSWpDVEFBPT0K"
+      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/stocktrader-desktop-v0.1.28/stocktrader-macos-arm64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbFJuYWFGVFBFaDB3K0ZzOUNSUEpwVmpTRmRHRzExWTV0aElaQzhBN2I1eVBJQjJISFlHYkJFcEJ1Wk1jWHNtMUZkblRtT09Na3RMZUhoR1Zha2hqaktXRFpZejU1S2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDIzMzAzCWZpbGU6UVMgRlNUIFN0b2NrIFRyYWRlci5hcHAudGFyLmd6CXZlcnNpb246MC4xLjE4ClNtdVhMUEZCdGJMc0Z2dE8wUkhzc2dvTEhUV0NkdmNSNEc1cHZjN0s3K2lEUVpZbzlKVmFmbkY0N1MyWFU2TEhXVnZzYXZMbDRQWmYwZmF1UUN3bUN3PT0K"
     },
     "linux-x86_64": {
-      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/stocktrader-desktop-v0.1.26/stocktrader-linux-x64.AppImage",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbFJuYWFGVFBFaCtDVHZJclVqdkNBWkFGQ216RmQzQ0djOU55bjhZTnpaaytGMTkybDZYOHR2MFB0SThiQ2E5TnM2am42eGpjNFVsNVdlZmg2dEd0b0lSWmljWWdIVlE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDE4OTQ1CWZpbGU6UVMgRlNUIFN0b2NrIFRyYWRlcl8wLjEuMThfYW1kNjQuQXBwSW1hZ2UJdmVyc2lvbjowLjEuMTgKUVRSRHdLbmpFZFBDUHZDRmN3WXBZUmo5YjhsWERaaHZJakU5MmtrZWZVVHRxOEsrSjBlYXhHTFFwQnE4U2ZXV1FIN2tnakgzaHhVaFdvRWVDbERyQUE9PQo="
+      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/stocktrader-desktop-v0.1.28/stocktrader-linux-x64.AppImage",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbFJuYWFGVFBFaDZWd2RIT0pUYm95ZFFuNnNlMGlId1p4Sk9WWW4reGRXamh6S0g0c2Z0YzBMeGc0K04wMDNHRmtheTZvTldXSm11UlgyZGlseFlRYlkzMUhwRTJ5VVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDI0MTkxCWZpbGU6UVMgRlNUIFN0b2NrIFRyYWRlcl8wLjEuMThfYW1kNjQuQXBwSW1hZ2UJdmVyc2lvbjowLjEuMTgKUGMwN2l3MHJ2cGR3NEtnN1VaWTlsQmVxS2dVOG1oYWI3cUJuK3pVaEZMQVJPbDBNaFFmdXcyZEF1TjQzOWNFMmFlekY2TTY5UEhDRTAxcmhqeWNDQ2c9PQo="
     },
     "linux-aarch64": {
-      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/stocktrader-desktop-v0.1.26/stocktrader-linux-arm64.AppImage",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbFJuYWFGVFBFaCtmSndGS0tTalNsUGVqRHZhZjJQWDMzUVRWMU5CaTI2VGpjRXVDdDFzaU5nOG5MaHNvdDZVMjZQbFJJS3grWFZHK280Wm1kRW9rYUxScDZpb1lCakFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDE4NTk4CWZpbGU6UVMgRlNUIFN0b2NrIFRyYWRlcl8wLjEuMThfYWFyY2g2NC5BcHBJbWFnZQl2ZXJzaW9uOjAuMS4xOAprSWZ4bGpxczJ2TXJYUU56a2VYamFDUlp6OVBHZjJjS1llOGgyY2svb3FDRHlCVm0ybWdZSGM0d08vSmVtVHJiOHZEOHE2QXpiRDBzR0w4dnhLM0hEQT09Cg=="
+      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/stocktrader-desktop-v0.1.28/stocktrader-linux-arm64.AppImage",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbFJuYWFGVFBFaDAyTGRlZDNhRHdsQTdhMmpOeHhFN3J4dXpKcUZPMGtKOTAxQzh3aVFWblhvRmxhS1BKYmRBd1lPa05uMi8vNlBqODNTSzI0eXl3RzZDeStjNlBVZ3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDIzODM3CWZpbGU6UVMgRlNUIFN0b2NrIFRyYWRlcl8wLjEuMThfYWFyY2g2NC5BcHBJbWFnZQl2ZXJzaW9uOjAuMS4xOApuOWlub0U5ekMrQnVtdGdLd0tIV1A4d2tWUHZUZTBvRTRJMXdGWnlDQitqb2cxM2F3cVdScEIxUTREQ2lMeHdiUFRRakxNaGZ3cW9NQjc4RTVObGFCUT09Cg=="
     }
   }
 }
