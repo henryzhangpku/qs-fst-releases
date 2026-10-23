@@ -1,27 +1,15 @@
 {
-  "version": "0.1.93",
-  "pub_date": "2026-10-19T17:57:26Z",
-  "notes": "QS FST 0DTE Trader desktop desktop-v0.1.93",
+  "version": "0.1.94",
+  "pub_date": "2026-10-23T21:16:28Z",
+  "notes": "QS FST 0DTE Trader desktop desktop-v0.1.94",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/desktop-v0.1.93/odtetrader-windows-x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURmhyT0laSXozNDRJd2dPaXljNDVNTmFxamZxM2E3OHlGaWJiQWx3em5HNWI3bXNiK05GUFFzK3dPdlBoSlRVeDYwdmcwbGZTZkRNOVdDNElTYldxaXBGSnpsUHBaZ1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDMyNTM5CWZpbGU6UVMgRlNUIDBEVEUgVHJhZGVyXzAuMS45M194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjkzCk1pdi9yL2ViSlYvbzE4eld2cndlL2UwcUkvVEIzMXRFbmJtY3VLMkFEdWpNWXpFNUIvdXVObkhqVm1PTzZGNzFabE50UmVDRGVRaCs5Z0dpYVJQUEJBPT0K"
-    },
-    "darwin-x86_64": {
-      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/desktop-v0.1.93/odtetrader-macos-x64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURmhyT0laSXozNDIxaFNobWxERnQvK2YxZmt0elZ3YnN0SFFybHcxbTVYZWNzeG9yWEk3THJNZzZ0RndLMERrWGRNUlpzdFFnRGlnZnFnODBNQ3RvMlN0ZlpleFBoakFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDMxMjY5CWZpbGU6UVMgRlNUIDBEVEUgVHJhZGVyLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuOTMKNlNzMmJaaGoyYTJPMjJYNW41VGlwbzBBaHRWSllsVlNMcEFPdFpES2w2eG5ZUzhTeWYyVVM1ZFpOalVXdDMxSGRKTjM1bnhydmdWV2pNSFJlQ2xORFE9PQo="
+      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/desktop-v0.1.94/odtetrader-windows-x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURmhyT0laSXozNCtJZVNyK0pjcUZwSlQxSFR4R0JFY2ZtenVQT3hLUXBYSlp3L2MyUTBuNW9XRjIySEs5Z2VrQnVKVi9JZVBOU0dqMjJTZUdhK3BMSzdqSFdyTWI2SGdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzkwMDk2CWZpbGU6UVMgRlNUIDBEVEUgVHJhZGVyXzAuMS45NF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjk0Ck5wTVl3TmpCcFJKWUlxMzdJWVNEcldra0pMTGRFK3hNc3IvZU1ZYVVydllhaWUwSTdqZ2Y3QmdVQWcxbzA3cDEzcjRlMXB1VHN5UXNZMzFGOEJJTUFBPT0K"
     },
     "darwin-aarch64": {
-      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/desktop-v0.1.93/odtetrader-macos-arm64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURmhyT0laSXozNHl3ZXpmOXJia0ltVmZMWnBkNmJUYTBZOCtlbUhzQ1NDM2VrUWl0YTJ5TDJUdHdPNnREN2VVclZLQ0FxZmNJc2ZrZEpQdU83YzRKY2Q4RkRkRTZnM0FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDMxMjYzCWZpbGU6UVMgRlNUIDBEVEUgVHJhZGVyLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuOTMKZ1FSU1VGQ0NvUEVZZU5CTTZnVFpmU3lLa3NHY1hJNXNTOW9SZVFnYzFxa3QyK0k2YXdOVy9uNVlQeUl4OGlGNTVIenRhKzY3R25FUGxkTXY1WkJ5Q2c9PQo="
-    },
-    "linux-x86_64": {
-      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/desktop-v0.1.93/odtetrader-linux-x64.AppImage",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURmhyT0laSXozNDNJazEvakphYng2RUFqeldIdUxnNUJWOW5yQWpoc0Z2S3RDVEdsZTJOU2U2Z2JGbWZueU1FMy9YcUlzL2FkUWRya1c0T29RenVDQTBBd2piNzBMMkFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDMyMzc3CWZpbGU6UVMgRlNUIDBEVEUgVHJhZGVyXzAuMS45M19hbWQ2NC5BcHBJbWFnZQl2ZXJzaW9uOjAuMS45Mwppa0pkY2d6V3ozeDVRY3Fmb0pEelhFQnJwZ2xNQWx5TDJQZm0yNWxBVWlRcW94R0Y4U3MrY2p6K1dacnB0eWhoNXllUmRHaEZSTUNmWGJNNnAvYzlCdz09Cg=="
-    },
-    "linux-aarch64": {
-      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/desktop-v0.1.93/odtetrader-linux-arm64.AppImage",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURmhyT0laSXozNDRaeTVTMmUxbVZuUFRnUWJsdi9ObHRyNWlzUGhFUm9KblJKZG41UFlYN2FnZSs1cHFUcHowaFRrb3pFdFpYdFFobUxDNHp1Ulh3UmJJaEF3cmxmN0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDMxODI5CWZpbGU6UVMgRlNUIDBEVEUgVHJhZGVyXzAuMS45M19hYXJjaDY0LkFwcEltYWdlCXZlcnNpb246MC4xLjkzCnNLcFA4RUNVZXpNS2JkcVdOMUZ2WnJ5VVdyUk1nY3J2cnBOa05TdUkvL1NNcmNQZktmZzFRWExLYWRwemxpdnNWdm41YVFuMUhBZktSU0Y0aUlHN0R3PT0K"
+      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/desktop-v0.1.94/odtetrader-macos-arm64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURmhyT0laSXozNDJyN1JxaFUzS01iMXQrTDRQNFB6U0F2UWZWTUpMOEZjVnFTVXRnWmdicldoVTYyK2QyeUN3OSs0dzFuWHJ6bnpCZExTN3lSZGFCN2JqV2ZrWkdJK2dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzg4NTMwCWZpbGU6UVMgRlNUIDBEVEUgVHJhZGVyLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuOTQKd3JRYlk4MmJqMklTbjJjcmViZGw3RGgwb1U3T2FsUGxjSU1JZGVSaFBwZmxWOGcwVDJYOXdNT1FXZXhOanY4NkluVVBaRTQ0TVN2Njg1UHdRSTQwQnc9PQo="
     }
   }
 }
