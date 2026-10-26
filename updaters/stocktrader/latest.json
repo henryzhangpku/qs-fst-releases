@@ -1,15 +1,15 @@
 {
-  "version": "0.1.43",
-  "pub_date": "2026-10-20T08:55:19Z",
-  "notes": "QS FST Stock Trader desktop stocktrader-desktop-v0.1.43",
+  "version": "0.1.44",
+  "pub_date": "2026-10-26T05:36:00Z",
+  "notes": "QS FST Stock Trader desktop stocktrader-desktop-v0.1.44",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/stocktrader-desktop-v0.1.43/stocktrader-windows-x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbFJuYWFGVFBFaHpwdWxPbVcyMzdDYktZZFNXaG1SWWlYb3dRRENzK0VsMG9VT0J3TVBpMGVZWnloMU52elE3NlJreGdTeDE3dlZNd3ZzQjVQbWVZMmhTdjdMZy9XUndBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDg2MzQyCWZpbGU6UVMgRlNUIFN0b2NrIFRyYWRlcl8wLjEuNDNfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS40Mwo2NWROSmJjZkwzdk41aDVISitOQXh2T2tEcDJLbDF2OU9QMGtmRDF4Q2c1WGErMHF6Y0t4VE1Cck5jOE9XVzQxazRER2liaTZuM3hWZVBDdVNmeThCdz09Cg=="
+      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/stocktrader-desktop-v0.1.44/stocktrader-windows-x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbFJuYWFGVFBFaDdsL3hFVWljQkFENHRjd0xPTUY2alhFTUhnd2E2bkRqRzJiVFBBNm5mWVRBYVN1NUdwL0MzZnljdUtzUzcxRWZOYVBTNlhiWmxoNDBmbFhKaUlCYlFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTkyODcwCWZpbGU6UVMgRlNUIFN0b2NrIFRyYWRlcl8wLjEuNDRfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS40NApueVhQYU9HS05reGVqd2pRaXZwZC81OUl4aTVNaXpNOUs3NjRkWEYvSjZzR1RzcE5qWXBTdDR2bE85bnBUUDUyWXJucUM2Q3JNR04rOGYwbEFySzFCZz09Cg=="
     },
     "darwin-aarch64": {
-      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/stocktrader-desktop-v0.1.43/stocktrader-macos-arm64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbFJuYWFGVFBFaDIrVWRIQUVGM3hudExSN2pYYXVlVG4weGxlVnpycXc2aWcyS25VSHArRUZPN0F6eEgveDEzakNTQXRpaUxFYmxCZDhCRWpZcDl6aGdMZkUxZ3ZmYWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDg0NzY2CWZpbGU6UVMgRlNUIFN0b2NrIFRyYWRlci5hcHAudGFyLmd6CXZlcnNpb246MC4xLjQzClZWZ2NzY0tUZGloMTlMWlMyemNuakJpTXZTaUxFd2QyZmsycms5d0REZ3FwdUVUakJ4VmpqMmhTSWJRWjNZMnMvc054SldFYjlDTTRvNTRYOGd6QkJ3PT0K"
+      "url": "https://github.com/henryzhangpku/qs-fst-releases/releases/download/stocktrader-desktop-v0.1.44/stocktrader-macos-arm64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbFJuYWFGVFBFaHc2ZzR4Qm5UTzU5b2c1aC9USGVtOW9EcU1XLzJvK0tnZlVybDlYQnd4U0xkNm0vWDFKdGVONS92TDhYSFlibC95dUxPb3dEbDhFMjMwQkJ4Nkl1Q3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTkxMjY0CWZpbGU6UVMgRlNUIFN0b2NrIFRyYWRlci5hcHAudGFyLmd6CXZlcnNpb246MC4xLjQ0CjJLdmY4T0RTeHpmRWdHM3UyN20wRFp5Q3pFTFhmUmkxUFI5UTUySjhPSXhMOXFCbGhDVE1lOHBEN1BTckFveXBRTlFBSUdGSklVZHZnM2U3a3BqMERRPT0K"
     }
   }
 }
